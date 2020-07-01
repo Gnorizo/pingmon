@@ -12,5 +12,5 @@ To install:
 - pip install -r requirements.txt
 
 To run:
-- Edit constants in pingmon.py to taste, e.g. ITERATION_TIME and LOG_FILENAME
+- Edit configuration variables in config.py to taste, e.g. LOG_FILENAME
 - sudo python3 pingmon.py
